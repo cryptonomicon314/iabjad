@@ -1,0 +1,7 @@
+iabjad.py
+
+**/.ipynb_checkpoints/**
+*.pyc
+*.egg-info/**
+dist/**
+build/**
